@@ -18,7 +18,7 @@ Brownie points will be awarded on the following basis
 -  Security measures taken
 
 ***************************************
-Marking will be done on fllowing basis
+Marking will be done on following basis
 ***************************************
 
 -  No. of features completed
